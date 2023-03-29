@@ -8,3 +8,5 @@ class Config():
     SQLALCHEMY_DATABASE_URI = os.getenv("DATABASE_URI")
     UPLOAD_FOLDER = 'uploads'
     SQLALCHEMY_TRACK_MODIFICATIONS = False
+    SECRET_KEY = 'SECRET'
+    STORAGE = 'static'

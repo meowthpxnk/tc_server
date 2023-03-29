@@ -157,9 +157,6 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 
+instance
 
 # End of https://www.toptal.com/developers/gitignore/api/python
-
-images/banners/*.png
-images/dishes/*.png
-images/restaurant/*.png
